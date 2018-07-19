@@ -1,5 +1,5 @@
 # gema-maps
-list of gema maps on [PSY] public server
+list of gema maps on [PSY] servers
 
 verwesen-gema-3
 
